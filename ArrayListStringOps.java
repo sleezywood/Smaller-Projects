@@ -1,6 +1,6 @@
 /*
 ArrayListStringOps.java
-ICS4U - Solving Varied Questions using ArrayLists
+Solving Varied Questions using ArrayLists
 Sudhanya Golla
 Created July 5th, 2024
 Last Modified July 5th 2024
@@ -426,4 +426,5 @@ class ArrayListStringOps {
 	  }
 	}
 	
+
 }
